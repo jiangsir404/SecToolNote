@@ -1,11 +1,11 @@
 [TOC]
 # awvs 进阶篇 - (二)
 
-## AcuSensor
+## 一、AcuSensor
 - Interactive Application Security Testing (IAST) with AcuSensor https://www.acunetix.com/vulnerability-scanner/acusensor-technology/
 - How to install the PHP AcuSensor https://www.acunetix.com/support/docs/installing-acusensor-php/
 
-## AcuMonitor
+## 二、 AcuMonitor
 - https://www.acunetix.com/vulnerability-scanner/acumonitor-technology/
 常规的Web应用程序测试非常简单-扫描程序将有效载荷发送到目标，接收响应，分析该响应，并基于对该响应的分析引发警报。
 但是，某些漏洞在测试过程中未对扫描程序提供任何响应。
@@ -24,7 +24,7 @@ XML External Entity Injection (XXE)
 ```
 
 
-## wvsc
+## 三、 wvsc
 awvs10版本自带的命令行工具是wvs_console.exe, awvs11版本自带的是wvsc.exe, 命令有很大变化，很多命令都隐藏起来了，不细心找很难发现，比如crawl
 
 ```
@@ -93,7 +93,7 @@ wvs_console.exe的一些命令:
 
 ```
 
-## awvsapi
+## 四、 awvsapi
 - awvs11 api文档: https://github.com/h4rdy/Acunetix11-API-Documentation
 - 官方api相关信息 https://www.acunetix.com/?s=api
 

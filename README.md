@@ -1,6 +1,7 @@
 # SecToolNote
-记录整理分享日志，笔记一类<br>
-不定期更新系列
+常用安全工具的总结和学习， 不定期更新。
+
+在线阅读地址: [https://sectoolnote.readthedocs.io/](https://sectoolnote.readthedocs.io/)
 
 ## CobaltStrike
 - [x] Cobalt Strike 基础 - (一)
