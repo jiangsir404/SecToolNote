@@ -6,7 +6,6 @@
 ## CobaltStrike
 - [x] Cobalt Strike 基础 - (一)
 - [x] Cobalt Strike 进阶 - (二)
-- [x] Cobalt Strike 4.0官方教程笔记
 - [x] profile使用
 - [x] profile编写
 
@@ -29,6 +28,12 @@
 
 ## Fiddler
 fiddler基础（一)
+
+## 信息收集类工具
+- [ ] OneForAll
+- [ ] WhatWeb
+- [ ] Aquatone
+- [ ] Crawlergo
 
 ## 代码审计
 - [x] Discuz ML! V3.X 代码注入
