@@ -1,0 +1,11 @@
+*.DS_Store
+*.egg-info
+*.log
+*.pyc
+*.swp
+.svn
+.idea
+build
+_build
+dist
+YouNoteImageDownload.py
