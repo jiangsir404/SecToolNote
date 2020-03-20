@@ -21,10 +21,14 @@
 
 ## AWVS
 - [x] awvs 基础篇 - (一)
-- [ ] awvs 高级篇 - (二)
-- [ ] awvs 开发篇 - (三)
+- [x] awvs 高级篇 - (二)
+- [x] awvs 开发篇 - (三)
 
 ## Sqlmap
+
+## Sublime
+
+## Pycharm
 
 ## Fiddler
 fiddler基础（一)
@@ -34,6 +38,8 @@ fiddler基础（一)
 - [ ] WhatWeb
 - [ ] Aquatone
 - [ ] Crawlergo
+
+## 代码审计工具
 
 ## 代码审计
 - [x] Discuz ML! V3.X 代码注入
