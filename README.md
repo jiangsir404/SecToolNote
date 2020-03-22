@@ -30,6 +30,9 @@
 
 ## Pycharm
 
+## IDEA
+- [x] IDEA 基础(一)
+
 ## Fiddler
 fiddler基础（一)
 
