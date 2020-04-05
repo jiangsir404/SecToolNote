@@ -36,6 +36,9 @@
 ## Fiddler
 fiddler基础（一)
 
+## Java安全相关工具
+- [ ] ysoserial基础 - (一)
+
 ## 信息收集类工具
 - [ ] OneForAll
 - [ ] WhatWeb
@@ -43,7 +46,3 @@ fiddler基础（一)
 - [ ] Crawlergo
 
 ## 代码审计工具
-
-## 代码审计
-- [x] Discuz ML! V3.X 代码注入
-- [x] 记一次TRS的学习过程

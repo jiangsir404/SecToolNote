@@ -14,7 +14,6 @@ Welcome to SevenStarNote's documentation!
    source/burpsuite/index
    source/nmap/index
    source/cobaltstrike/index
-   source/codeaudit/index
 
 
 
